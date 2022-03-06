@@ -1,0 +1,63 @@
+/* CATALOG */
+.div-catalog {
+  color: #2d2d2d;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.the-catalog {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.btn-catalog {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.catalog-img {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+  height: 265px;
+  z-index: 5;
+  box-shadow: 25px 25px 0px 0px #ec7f00;
+  transition: 0.5s ease-in-out;
+}
+
+.catalog-img:hover {
+  box-shadow: 0px 0px 0px 25px #ec7f00;
+}
+
+.catalog-name {
+  margin: 13px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.comfortable_home--p {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+.furniture_for_home--h4 {
+  color: #2d2d2d;
+  text-align: center;
+  font-size: 36px;
+}
+
+.furniture_for_business--h4 {
+  color: #2d2d2d;
+  text-align: center;
+  font-size: 36px;
+  margin-top: 60px;
+}
+
+.furniture_for--span {
+  color: #ec7f00;
+}

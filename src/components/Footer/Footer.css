@@ -1,0 +1,17 @@
+footer {
+  background: #313131;
+  padding: 20px;
+  color: #fff;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dontknow {
+  width: 144px;
+  height: 40px;
+  background: #e3e3e3;
+}
